@@ -1,17 +1,16 @@
-Projeto Awax
-Projeto realizado com base no curso do Boniek Lacerda, com o objetivo de praticar os conhecimentos e HTML e CSS aprendidos ao longo do curso
+<h1>Projeto Awax</h1>
+Projeto realizado com base no curso do <b>Boniek Lacerda</b>, com o objetivo de praticar os conhecimentos e HTML e CSS aprendidos ao longo do curso
 
-🚀 Começando
-Deploy da aplicação: https://marcioguinati.com.br/awax
+<h3>🚀 Deploy da Aplicação</h3>
+Link: https://marcioguinati.com.br/awax
 
-📋 Pré-requisitos
+<h3>📋 Pré-requisitos</h3>
 Visual Studio Code
 
-🛠️ Construído com
-- HTML
-- CSS
+<h3>🛠️ Construído com</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 
-✒️ Autores
-Marcio Guinati
-
-⌨️ com ❤️ Marcio Guinati 😊
+⌨️ com ❤️ <b><a href="https://marcioguinati.com.br">Marcio Guinati<a/></b> 😊
